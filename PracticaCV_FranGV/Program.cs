@@ -16,7 +16,7 @@ namespace PracticaCV_FranGV
 
             // SALIDA
 
-            Console.WriteLine("Mi nombre es: FranGV");
+            Console.WriteLine("Mi nombre es: FranGVv");
         }
     }
 }
