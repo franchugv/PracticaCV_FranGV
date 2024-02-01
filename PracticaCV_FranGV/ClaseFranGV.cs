@@ -8,5 +8,16 @@ namespace PracticaCV_FranGV
 {
     public class ClaseFranGV
     {
+
+        // CONSTANTES
+
+        // MIEMBROS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // METODOS
+
     }
 }
