@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_FranGV
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_FranGV
 {
     internal class Program
     {
@@ -13,6 +15,8 @@
             // PROCESO
 
             // SALIDA
+
+            Console.WriteLine("Mi nombre es: FranGV");
         }
     }
 }
